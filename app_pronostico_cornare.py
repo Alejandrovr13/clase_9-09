@@ -1,4 +1,4 @@
-```python
+
 """
 App de Streamlit — Predictor de PM2.5 / PM10 (API de CORNARE / MARCO)
 
